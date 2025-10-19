@@ -1,6 +1,6 @@
 # Hi, I'm Syafiq Adhyaraka Nazwir Karmen  
 
-**Student | Competitive Programmer | Cybersecurity Enthusiast | Game Developer**  
+**Student | Competitive Programmer | Cybersecurity | Game Developer**  
 Based in Maluku, Ambon, Indonesia  
 
 ---
