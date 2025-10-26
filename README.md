@@ -44,6 +44,7 @@ Currently, I’m sharpening my skills in **cybersecurity** and **game developmen
 ---
 
 ## Focus Areas  
+-  **Low Level Optimization**
 -  **Cybersecurity**  
 -  **Game Development**  
 -  **Shell Scripting & Automation**  
