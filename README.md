@@ -1,14 +1,16 @@
 # Hi, I'm Syafiq Adhyaraka Nazwir Karmen  
 
 **Student | Competitive Programmer | Cybersecurity | Game Developer**  
-Based in Maluku, Ambon, Indonesia  
+Based in Malang, East Java, Indonesia  
 
 ---
 
 ## About Me  
 
-Hello! My name is **Syafiq Adhyaraka Nazwir Karmen**, a high school student from **SMA Negeri 1 Ambon**.  
+Hello! My name is **Syafiq Adhyaraka Nazwir Karmen**, an Information Technology student at the **Faculty of Computer Science, Universitas Brawijaya** in Malang.  
 I have a deep passion for **low-level systems** and **performance optimization**, especially when it comes to **discovering and analyzing system vulnerabilities**.  
+
+I also practice **competitive programming**, which keeps my problem-solving and algorithmic thinking sharp.  
 
 I’m still new to the open-source and developer community, so any guidance and feedback are truly appreciated!  
 
@@ -18,33 +20,30 @@ Currently, I’m sharpening my skills in **cybersecurity** and **game developmen
 
 ## Tech Stack  
 
-### Programming & Markup  
+### Programming & Graphics  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=asm&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SDL](https://img.shields.io/badge/SDL-0068B1?style=for-the-badge&logo=sdl&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![GLFW](https://img.shields.io/badge/GLFW-4A4A4A?style=for-the-badge)
+![GLAD](https://img.shields.io/badge/GLAD-4A4A4A?style=for-the-badge)
+
 ---
 
 ### Tools & Editors  
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![vcpkg](https://img.shields.io/badge/vcpkg-4A4A4A?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white)
+
 ---
 
 ## Focus Areas  
+-  **Competitive Programming**
 -  **Low Level Optimization**
 -  **Cybersecurity**  
 -  **Game Development**  
@@ -59,4 +58,4 @@ Currently, I’m sharpening my skills in **cybersecurity** and **game developmen
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my repositories and leave a star if you find something interesting.*  
+*Thanks for visiting my profile! Feel free to explore my repositories and leave a star if you find something interesting.*
